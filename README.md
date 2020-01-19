@@ -35,6 +35,10 @@ The default setting is running on **Tensorflow eager** mode, this setting can su
 
 For example, if the training of **64 x 64** model is finished and saved, and I want to train **128 x 128** model. I have to restart the notebook, adjust the `image_size` to **128**, and `CURRENT_EPOCH` to **201** (By default, 40 epochs for one resolution in this notebook)
 
+## Trained Models
+
+[128 x 128](https://drive.google.com/open?id=1wc-nFq9QTc6OwqTb4ygAsiqyTVjXCK8F)
+
 ## Results
 
 4 x 4 resolution
