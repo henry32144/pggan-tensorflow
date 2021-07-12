@@ -37,7 +37,16 @@ For example, if the training of **64 x 64** model is finished and saved, and I w
 
 ## Trained Models
 
-[128 x 128](https://drive.google.com/open?id=1wc-nFq9QTc6OwqTb4ygAsiqyTVjXCK8F)
+The model's code has been fixed, so the old 128x128 trained model wouldn't work.
+
+[4 x 4](https://drive.google.com/file/d/1Ik00cF0xN_l7nUsmSxZgHR0YdIGhDkrY/view?usp=sharing)
+
+[8 x 8](https://drive.google.com/file/d/1yHjHf0p3djt3O-8ezdO6q9Cyj0bVW1W5/view?usp=sharing)
+
+[16 x 16](https://drive.google.com/file/d/1POBSffJBwh4oAkA3Ve0hkj5PrCo8NkAK/view?usp=sharing)
+
+[32 x 32](https://drive.google.com/file/d/1sMIZk-iwzxeEsT2bOyyhR8hfXbNwCC_Q/view?usp=sharing)
+
 
 ## Results
 
