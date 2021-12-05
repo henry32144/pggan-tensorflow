@@ -6,6 +6,8 @@ Note that this implementation is not totally the same as the paper. There might 
 
 **[Official implementation](https://github.com/tkarras/progressive_growing_of_gans)**
 
+**[Google Colab](https://colab.research.google.com/drive/1SdfNdom68koJLdhl3wumjOOvPgfdBJV9?usp=sharing#scrollTo=LOsY-eRGT2wt)**
+
 ## Dataset
 
 The notebook trains models using [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) dataset. 
