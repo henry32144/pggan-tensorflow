@@ -29,7 +29,7 @@ The notebook trains models using [CelebAMask-HQ](https://github.com/switchableno
 2. Clone this repo, then use Juypter Notebook or Lab to open the `PGGAN-Tensorflow.ipynb`     file, and modify the dataset path in the **Prepare dataset** section.
 
 It takes me about 4~5 days to train from 4 x 4 to 128 x 128 resolution on single 1080ti GPU.
-(Not continuious training)
+(Not continuous training)
 
 ## Training steps
 
